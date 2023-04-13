@@ -1,0 +1,27 @@
+N	//directed
+N	//weighted
+6	//number of vertices
+2	//(out) degree of vertex 1
+2	
+3
+3	//(out) degree of vertex 2
+1
+4
+3
+4	//(out) degree of vertex 3
+2
+1
+5
+4
+3	//(out) degree of vertex 4
+5
+2
+3
+2	//(out) degree of vertex 5
+3
+4
+1	//(out) degree of vertex 6
+5
+
+
+
